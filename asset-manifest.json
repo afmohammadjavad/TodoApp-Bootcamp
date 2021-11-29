@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TodoApp-Bootcamp/static/css/main.9fd0cfda.chunk.css",
+    "main.js": "/TodoApp-Bootcamp/static/js/main.a0732924.chunk.js",
+    "main.js.map": "/TodoApp-Bootcamp/static/js/main.a0732924.chunk.js.map",
+    "runtime-main.js": "/TodoApp-Bootcamp/static/js/runtime-main.0be7f97f.js",
+    "runtime-main.js.map": "/TodoApp-Bootcamp/static/js/runtime-main.0be7f97f.js.map",
+    "static/css/2.a95be28f.chunk.css": "/TodoApp-Bootcamp/static/css/2.a95be28f.chunk.css",
+    "static/js/2.c0ab4819.chunk.js": "/TodoApp-Bootcamp/static/js/2.c0ab4819.chunk.js",
+    "static/js/2.c0ab4819.chunk.js.map": "/TodoApp-Bootcamp/static/js/2.c0ab4819.chunk.js.map",
+    "static/js/3.e682448e.chunk.js": "/TodoApp-Bootcamp/static/js/3.e682448e.chunk.js",
+    "static/js/3.e682448e.chunk.js.map": "/TodoApp-Bootcamp/static/js/3.e682448e.chunk.js.map",
+    "index.html": "/TodoApp-Bootcamp/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/TodoApp-Bootcamp/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.9fd0cfda.chunk.css.map": "/TodoApp-Bootcamp/static/css/main.9fd0cfda.chunk.css.map",
+    "static/js/2.c0ab4819.chunk.js.LICENSE.txt": "/TodoApp-Bootcamp/static/js/2.c0ab4819.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be7f97f.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.c0ab4819.chunk.js",
+    "static/css/main.9fd0cfda.chunk.css",
+    "static/js/main.a0732924.chunk.js"
+  ]
+}
